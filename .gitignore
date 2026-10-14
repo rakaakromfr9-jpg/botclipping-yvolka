@@ -1,0 +1,6 @@
+.env
+credentials.json
+google-key.json
+package.json
+package-lock.json
+node_modules/
